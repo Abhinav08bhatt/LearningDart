@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "facea48e7a4251e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4da66f067fbcf8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf96605035b185ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTE/Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e82160e2fc460a19",
+    "type": "split",
+    "children": [
+      {
+        "id": "3efcd46d23b6b1e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06c97a7433962a3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b28357b200ab2c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82efc711109840cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b2b0cc563e869271",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a270ec9272c65c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f183505582ce2715",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily-informal-notes/20 Jan 2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20 Jan 2026"
+            }
+          },
+          {
+            "id": "68183b7b7f1473c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily-informal-notes/20 Jan 2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20 Jan 2026"
+            }
+          },
+          {
+            "id": "6b4b2b021a2c35d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2f1f6c3e78703b81",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "08022de13842500d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily-informal-notes/20 Jan 2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20 Jan 2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "vscode-editor:Create Code File": false,
+      "github-sync:Sync with Remote": false,
+      "code-files:Create Code File": false,
+      "open-vscode:VSCode": false
+    }
+  },
+  "active": "cf96605035b185ec",
+  "lastOpenFiles": [
+    "NOTE/Index.md",
+    "CODE/Untitled.md",
+    "CODE/file_01.dart.ts",
+    "CODE/file_01.dart",
+    "NOTE",
+    "n.md",
+    "CODE",
+    "Blog App/Folder Structure.md",
+    "Flutter/Widgets/Material App.md",
+    "Flutter/Widgets",
+    "Blog App/Main Notes.md",
+    "Flutter Notes/01-Widgets/Buttons.md",
+    "Flutter Notes/00-Index.md",
+    "Flutter/Optimization notes.md",
+    "Flutter Notes/05-Project Notes/Current Project.md",
+    "Flutter Notes/04-Architecture/Small Architecture Notes.md",
+    "Flutter Notes/03-Backend/Auth & DB.md",
+    "Flutter Notes/03-Backend/Supabase Basics.md",
+    "Flutter Notes/02-Patterns/Error Handling.md",
+    "Flutter Notes/02-Patterns/Async + Loading.md",
+    "Flutter Notes/02-Patterns/Form Handling.md",
+    "Flutter Notes/01-Widgets/Layout.md",
+    "Flutter Notes/01-Widgets/Forms.md",
+    "Flutter Notes/05-Project Notes",
+    "Flutter Notes/04-Architecture",
+    "Flutter Notes/03-Backend",
+    "Flutter Notes/02-Patterns",
+    "Flutter Notes/01-Widgets",
+    "Daily-informal-notes/Life Status.md",
+    "Blog App/System-design.canvas",
+    "Blog App/Flow-of-app.canvas",
+    "Blog App/main.py.md",
+    "UniView/Architecture.md",
+    "UniView/Admin.md",
+    "UniView/FrontEnd.md",
+    "System-Designing/App Architecture.md",
+    "Daily-informal-notes/20 Jan 2026.md",
+    "Want/I want....md"
+  ]
+}
