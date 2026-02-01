@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTE/Index.md",
+                "file": "NOTE/Dart Syntax/Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Variables"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "cf96605035b185ec",
   "lastOpenFiles": [
-    "NOTE/Dart Syntax",
     "NOTE/Index.md",
+    "NOTE/Dart Syntax/Variables.md",
+    "NOTE/Dart Syntax",
     "CODE/Untitled.md",
     "CODE/file_01.dart.ts",
     "CODE/file_01.dart",
@@ -218,7 +219,6 @@
     "Flutter Notes/04-Architecture",
     "Flutter Notes/03-Backend",
     "Flutter Notes/02-Patterns",
-    "Flutter Notes/01-Widgets",
     "Daily-informal-notes/Life Status.md",
     "Blog App/System-design.canvas",
     "Blog App/Flow-of-app.canvas",
