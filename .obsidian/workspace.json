@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTE/Dart Syntax/Variables.md",
+                "file": "NOTE/Dart Syntax/03 - Conditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variables"
+              "title": "03 - Conditions"
             }
           }
         ]
@@ -184,14 +184,18 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "vscode-editor:Create Code File": false,
       "github-sync:Sync with Remote": false,
-      "code-files:Create Code File": false,
       "open-vscode:VSCode": false
     }
   },
   "active": "cf96605035b185ec",
   "lastOpenFiles": [
+    "NOTE/Dart Syntax/02 - Variables.md",
+    "CODE/conditions.dart",
+    "NOTE/Dart Syntax/03 - Conditions.md",
+    "NOTE/Dart Syntax/01 - Basics.md",
+    "CODE/variables.dart",
+    "CODE/basics.dart",
     "NOTE/Index.md",
-    "NOTE/Dart Syntax/Variables.md",
     "NOTE/Dart Syntax",
     "CODE/Untitled.md",
     "CODE/file_01.dart.ts",
@@ -216,17 +220,11 @@
     "Flutter Notes/01-Widgets/Layout.md",
     "Flutter Notes/01-Widgets/Forms.md",
     "Flutter Notes/05-Project Notes",
-    "Flutter Notes/04-Architecture",
-    "Flutter Notes/03-Backend",
-    "Flutter Notes/02-Patterns",
     "Daily-informal-notes/Life Status.md",
     "Blog App/System-design.canvas",
     "Blog App/Flow-of-app.canvas",
     "Blog App/main.py.md",
     "UniView/Architecture.md",
-    "UniView/Admin.md",
-    "UniView/FrontEnd.md",
-    "System-Designing/App Architecture.md",
-    "Daily-informal-notes/20 Jan 2026.md"
+    "UniView/Admin.md"
   ]
 }
