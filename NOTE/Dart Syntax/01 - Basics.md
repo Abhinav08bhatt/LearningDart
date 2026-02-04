@@ -100,3 +100,16 @@ print("After more change : ${word_1}");
 word_1 = "The greeting is : ${word_1}";
 print("After more and more change : ${word_1}");
 ```
+
+---
+## String Indexing 
+
+- Syntax : 
+```dart
+string_variable[index];
+```
+- Example : 
+```dart
+String word = "Hello World";
+print(word[2]);
+```

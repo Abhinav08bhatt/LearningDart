@@ -66,4 +66,10 @@ main(){
     word_1 = "The greeting is : ${word_1}";
     print("After more and more change : ${word_1}");
 
+
+    // ? String Indexing
+
+    print(word_2[0]);
+    print(word_2[2]);
+
 }
